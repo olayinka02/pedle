@@ -14,7 +14,7 @@ class App extends Component {
     return (
       <div>
         <header style={{backgroundColor:'black',}} role="banner" class="NavMain-Banner-module--cls2--Kiz5E NavMain-Banner-module--cls1--2T6rT text-light justify-content-center navbar navbar-expand navbar-dark">
-        <iframe src="https://player.vimeo.com/video/60742256" width="600" height="340" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+        <iframe src="https://player.vimeo.com/video/60742256" title="video" width="600" height="340" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
          
       
         </header>
