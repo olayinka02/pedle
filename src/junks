@@ -1,0 +1,9 @@
+<br/><br/><br/><br/><br/><br/><br/> <center>
+         <img
+        src={emoji}
+        width="500"
+        height="80"
+        className="d-inline-block"
+        alt="logo"
+        />
+         </center>
